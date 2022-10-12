@@ -2,7 +2,7 @@
 
 [<img align="bottom" alt="styve-lioumba" src="https://img.shields.io/website?style=plastic&up_message=styve-lioumba.fr&url=https%3A%2F%2Fwww.styve-lioumba.fr%2F" />](https://www.linkedin.com/in/styveLioumba)
 
-**StyveLioumba/styveLioumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**StyveLioumba/styveLioumba** is a ✨ _special_ ✨ repository because its `README.md` speak about me 🙎🏾‍♂️.
 <br><br>
 
 I'm web and mobile developer, I frequently use :
